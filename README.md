@@ -1,6 +1,6 @@
-# Case Técnico 2024
+# Case Técnico 2024 - *Consumer behavior and product performance in the cosmetics e-commerce (Oct 2019 – Feb 2020).*
 
-Este repositório contém o estudo completo de um case técnico aplicado, envolvendo etapas de engenharia de dados, análise exploratória, visualização dos dados e apresentação dos resultados em relatórios técnicos.
+Este repositório contém o estudo completo de um case técnico aplicado de comportamento do consumidor e desempenho do produto no comércio eletrônico de cosméticos, utilizando o conjunto de dados Histórico de eventos de e-commerce de uma loja de cosméticos, do repositório Kaggle. Envolve etapas de engenharia de dados, análise exploratória, visualização dos dados e apresentação dos resultados em relatórios técnicos.
 
 ## 📚 Estrutura do Projeto
 
